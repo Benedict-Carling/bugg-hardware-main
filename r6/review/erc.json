@@ -1,0 +1,319 @@
+{
+    "$schema": "https://schemas.kicad.org/erc.v1.json",
+    "coordinate_units": "mm",
+    "date": "2026-09-28T17:16:44",
+    "ignored_checks": [
+        {
+            "description": "Global label only appears once in the schematic",
+            "key": "single_global_label"
+        },
+        {
+            "description": "Four connection points are joined together",
+            "key": "four_way_junction"
+        },
+        {
+            "description": "SPICE model issue",
+            "key": "simulation_model_issue"
+        },
+        {
+            "description": "Assigned footprint doesn't match footprint filters",
+            "key": "footprint_filter"
+        }
+    ],
+    "included_severities": [
+        "error",
+        "warning"
+    ],
+    "kicad_version": "10.0.4",
+    "sheets": [
+        {
+            "path": "/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f",
+            "violations": [
+                {
+                    "description": "Both R6_GLOBAL_EN and GLOBAL_EN_o are attached to the same items; R6_GLOBAL_EN will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_GLOBAL_EN'",
+                            "pos": {
+                                "x": 2.6416,
+                                "y": 1.9812
+                            },
+                            "uuid": "16214d3a-569f-479f-a9f0-79ab865ba9ac"
+                        },
+                        {
+                            "description": "Label 'GLOBAL_EN_o'",
+                            "pos": {
+                                "x": 2.6416,
+                                "y": 1.9812
+                            },
+                            "uuid": "55878801-99f2-4b59-8084-b345f1a6fdd1"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both +3V3 and VCC are attached to the same items; +3V3 will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Symbol #PWR037 Hidden pin 1 [+3V3, Power input, Line]",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 0.889
+                            },
+                            "uuid": "b65daf31-bbfe-4191-8573-a2b5a2d75a8a"
+                        },
+                        {
+                            "description": "Symbol U34 Hidden pin 5 [VCC, Power input, Line]",
+                            "pos": {
+                                "x": 2.8321,
+                                "y": 1.0287
+                            },
+                            "uuid": "be1cff32-578f-4120-9f00-1b733691d00f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both R6_SDA and SDA are attached to the same items; R6_SDA will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_SDA'",
+                            "pos": {
+                                "x": 3.429,
+                                "y": 1.7018
+                            },
+                            "uuid": "409bb70f-8c55-4b9b-85a9-80c9efed1fb0"
+                        },
+                        {
+                            "description": "Label 'SDA'",
+                            "pos": {
+                                "x": 3.429,
+                                "y": 1.7018
+                            },
+                            "uuid": "335f1dc0-7dbe-4657-8780-13c42c5d656c"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both R6_SCL and SCL are attached to the same items; R6_SCL will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_SCL'",
+                            "pos": {
+                                "x": 3.429,
+                                "y": 2.2479
+                            },
+                            "uuid": "424dc311-da8f-4c79-928a-ce2ed340aa83"
+                        },
+                        {
+                            "description": "Label 'SCL'",
+                            "pos": {
+                                "x": 3.429,
+                                "y": 2.2479
+                            },
+                            "uuid": "36de94b2-abf7-4440-807f-e1c6c1acaa65"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/Power and input connector/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/e93db74d-0429-4e7f-b256-c16b4c3a83e7",
+            "violations": [
+                {
+                    "description": "Local and global labels have same name",
+                    "items": [
+                        {
+                            "description": "Global Label 'IN_VIN'",
+                            "pos": {
+                                "x": 1.3335,
+                                "y": 0.3175
+                            },
+                            "uuid": "0a7a7a1c-a7ad-42d0-9ec8-483fd4092006"
+                        },
+                        {
+                            "description": "Label 'IN_VIN'",
+                            "pos": {
+                                "x": 0.8001,
+                                "y": 0.4064
+                            },
+                            "uuid": "eb878617-2464-4251-8e78-e91ef993b437"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "same_local_global_label"
+                },
+                {
+                    "description": "Both R6_3V3_RAW and 3.3VA_O are attached to the same items; R6_3V3_RAW will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_3V3_RAW'",
+                            "pos": {
+                                "x": 1.651,
+                                "y": 3.2639
+                            },
+                            "uuid": "a1244592-1961-4102-aae4-b0da8d91ef84"
+                        },
+                        {
+                            "description": "Label '3.3VA_O'",
+                            "pos": {
+                                "x": 1.5494,
+                                "y": 3.2766
+                            },
+                            "uuid": "ff343c51-232f-416a-9758-b8c48723bc5e"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                }
+            ]
+        },
+        {
+            "path": "/Modem/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/c8d4c890-e18c-4f0d-b5c7-f5d98c418551",
+            "violations": []
+        },
+        {
+            "path": "/SDcard/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/498d2354-7ecc-4881-a4b8-afc4730b4589",
+            "violations": []
+        },
+        {
+            "path": "/USB-UART bridge/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085",
+            "violations": []
+        },
+        {
+            "path": "/RTC/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/41dcda57-f03b-4254-a26d-4b483d171c17",
+            "violations": [
+                {
+                    "description": "Both R6_SDA and SDA are attached to the same items; R6_SDA will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_SDA'",
+                            "pos": {
+                                "x": 0.635,
+                                "y": 0.5715
+                            },
+                            "uuid": "f680ffa0-103b-41c7-bcad-87c786650f98"
+                        },
+                        {
+                            "description": "Hierarchical Label 'SDA'",
+                            "pos": {
+                                "x": 0.2032,
+                                "y": 0.1524
+                            },
+                            "uuid": "a646ae60-7fb5-445a-98b4-b9159d04e9ee"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both R6_SCL and SCL are attached to the same items; R6_SCL will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_SCL'",
+                            "pos": {
+                                "x": 0.635,
+                                "y": 0.6477
+                            },
+                            "uuid": "a1850533-7369-46c6-9112-23178d659baa"
+                        },
+                        {
+                            "description": "Hierarchical Label 'SCL'",
+                            "pos": {
+                                "x": 0.2032,
+                                "y": 0.1905
+                            },
+                            "uuid": "477333f3-8448-49ef-a3b5-ccfaa15a627f"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Both R6_GLOBAL_EN and GLOBAL_EN are attached to the same items; R6_GLOBAL_EN will be used in the netlist",
+                    "items": [
+                        {
+                            "description": "Global Label 'R6_GLOBAL_EN'",
+                            "pos": {
+                                "x": 3.7846,
+                                "y": 0.381
+                            },
+                            "uuid": "ad78cf9a-b696-4e6c-a32d-4fa518452697"
+                        },
+                        {
+                            "description": "Hierarchical Label 'GLOBAL_EN'",
+                            "pos": {
+                                "x": 0.2032,
+                                "y": 0.2286
+                            },
+                            "uuid": "b57da878-4b82-4b6b-a7d2-72a060e42b8b"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "multiple_net_names"
+                },
+                {
+                    "description": "Local and global labels have same name",
+                    "items": [
+                        {
+                            "description": "Global Label 'GND'",
+                            "pos": {
+                                "x": 0.5588,
+                                "y": 0.381
+                            },
+                            "uuid": "760ab2b9-609d-49d3-a306-e5c9041958c3"
+                        },
+                        {
+                            "description": "Label 'GND'",
+                            "pos": {
+                                "x": 0.8001,
+                                "y": 0.4572
+                            },
+                            "uuid": "83f30e07-d692-4061-860b-bd38cbad8bf5"
+                        }
+                    ],
+                    "severity": "warning",
+                    "type": "same_local_global_label"
+                }
+            ]
+        },
+        {
+            "path": "/USB-OTG flashing interface/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/7086fb34-03e0-4978-93d2-ceae572d34d4",
+            "violations": []
+        },
+        {
+            "path": "/LED driver, LED board connections/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/676be2e4-179b-4538-a96d-4073cd6b4d31",
+            "violations": []
+        },
+        {
+            "path": "/External Microphone Interface/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/41f15edd-4583-4f5d-8a81-daeb7c83b416",
+            "violations": []
+        },
+        {
+            "path": "/Supply telemetry/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/bf921ae0-e1de-4625-8ffb-67c4cb184833",
+            "violations": []
+        },
+        {
+            "path": "/Modem supervision/",
+            "uuid_path": "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/496095da-9f8e-4a30-97ab-21b9074bd5b1",
+            "violations": []
+        }
+    ],
+    "source": "bugg-main-r6.kicad_sch"
+}

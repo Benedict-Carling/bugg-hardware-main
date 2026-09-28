@@ -1,0 +1,32 @@
+[
+  {
+    "case": "adc-r5",
+    "frequency_hz": 1380000,
+    "ngspice_gain_db": -0.403795102,
+    "formula_gain_db": -0.4037951015537791
+  },
+  {
+    "case": "adc-r6",
+    "frequency_hz": 1380000,
+    "ngspice_gain_db": -18.2886239,
+    "formula_gain_db": -18.288623850806253
+  },
+  {
+    "case": "adc-r6-audio",
+    "frequency_hz": 20000,
+    "ngspice_gain_db": -0.0601793241,
+    "formula_gain_db": -0.06017932411490747
+  },
+  {
+    "case": "bias-nominal",
+    "frequency_hz": 8000,
+    "ngspice_gain_db": -34.0271156,
+    "formula_gain_db": -34.02711564314665
+  },
+  {
+    "case": "bias-derated-scenario",
+    "frequency_hz": 8000,
+    "ngspice_gain_db": -26.0773266,
+    "formula_gain_db": -26.077326644494935
+  }
+]

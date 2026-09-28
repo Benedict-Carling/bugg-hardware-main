@@ -1,0 +1,2886 @@
+{
+  "C137": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/"
+  },
+  "D1": {
+    "value": "LG R971-KN-1",
+    "footprint": "jeffmakes-footprints:CHIPLED-0805",
+    "mpn": "LGR971-KN-1",
+    "manufacturer": "Osram",
+    "sheet": "/"
+  },
+  "D2": {
+    "value": "LH R974-LP-1",
+    "footprint": "jeffmakes-footprints:CHIPLED-0805",
+    "mpn": "LHR974-LP-1",
+    "manufacturer": "Osram",
+    "sheet": "/"
+  },
+  "D7": {
+    "value": "LY R976-PS-36",
+    "footprint": "jeffmakes-footprints:CHIPLED-0805",
+    "mpn": "LYR976-PS-36",
+    "manufacturer": "Osram",
+    "sheet": "/"
+  },
+  "GC1": {
+    "value": "DNP",
+    "footprint": "TestPoint:TestPoint_Keystone_5019_Minature",
+    "mpn": "5019",
+    "manufacturer": "Keystone",
+    "sheet": "/"
+  },
+  "GC2": {
+    "value": "DNP",
+    "footprint": "TestPoint:TestPoint_Keystone_5019_Minature",
+    "mpn": "5019",
+    "manufacturer": "Keystone",
+    "sheet": "/"
+  },
+  "GC3": {
+    "value": "DNP",
+    "footprint": "TestPoint:TestPoint_Keystone_5019_Minature",
+    "mpn": "5019",
+    "manufacturer": "Keystone",
+    "sheet": "/"
+  },
+  "GC4": {
+    "value": "DNP",
+    "footprint": "TestPoint:TestPoint_Keystone_5019_Minature",
+    "mpn": "5019",
+    "manufacturer": "Keystone",
+    "sheet": "/"
+  },
+  "Module1": {
+    "value": "ComputeModule4-CM4",
+    "footprint": "jeffmakes-footprints:Raspberry-Pi-4-Compute-Module-no-holes",
+    "mpn": "CM4002016",
+    "manufacturer": "Raspberry Pi",
+    "sheet": "/"
+  },
+  "Module1_J1": {
+    "value": "DF40HC(3.0)-100DS-0.4v",
+    "footprint": null,
+    "mpn": "DF40HC(3.0)-100DS-0.4v",
+    "manufacturer": "Hirose",
+    "sheet": "/"
+  },
+  "Module1_J2": {
+    "value": "DF40HC(3.0)-100DS-0.4v",
+    "footprint": null,
+    "mpn": "DF40HC(3.0)-100DS-0.4v",
+    "manufacturer": "Hirose",
+    "sheet": "/"
+  },
+  "R1": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R2": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R3": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R4": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R5": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R34": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R75": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R76": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "R77": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/"
+  },
+  "SP1": {
+    "value": "wurth-spacer-9774030151R",
+    "footprint": "jeffmakes-footprints:wurth-spacer-WA-SMSI-9774030151R",
+    "mpn": "9774030151R",
+    "manufacturer": "Wurth",
+    "sheet": "/"
+  },
+  "SP2": {
+    "value": "wurth-spacer-9774030151R",
+    "footprint": "jeffmakes-footprints:wurth-spacer-WA-SMSI-9774030151R",
+    "mpn": "9774030151R",
+    "manufacturer": "Wurth",
+    "sheet": "/"
+  },
+  "SP3": {
+    "value": "wurth-spacer-9774030151R",
+    "footprint": "jeffmakes-footprints:wurth-spacer-WA-SMSI-9774030151R",
+    "mpn": "9774030151R",
+    "manufacturer": "Wurth",
+    "sheet": "/"
+  },
+  "SP4": {
+    "value": "wurth-spacer-9774030151R",
+    "footprint": "jeffmakes-footprints:wurth-spacer-WA-SMSI-9774030151R",
+    "mpn": "9774030151R",
+    "manufacturer": "Wurth",
+    "sheet": "/"
+  },
+  "U1": {
+    "value": "74LVC1G07DCK",
+    "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+    "mpn": "SN74LVC1G07DCKT",
+    "manufacturer": "TI",
+    "sheet": "/"
+  },
+  "U34": {
+    "value": "74LVC1G157GV",
+    "footprint": "Package_SO:SC-74-6_1.5x2.9mm_P0.95mm",
+    "mpn": "74LVC1G157GV",
+    "manufacturer": "Nexperia",
+    "sheet": "/"
+  },
+  "C1": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C2": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C3": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C4": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C5": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C6": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C7": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C8": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C9": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C10": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C11": {
+    "value": "18pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C12": {
+    "value": "15pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C13": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C14": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C15": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C16": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C17": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C18": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C41": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C42": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C43": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C44": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C45": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C80": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C85": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A475KQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C86": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A475KQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C87": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C88": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C89": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C90": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C91": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C92": {
+    "value": "3.3pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C93": {
+    "value": "220nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61H224ME01J",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C94": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C95": {
+    "value": "4.7nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C96": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C97": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C98": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C99": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C100": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C101": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C102": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A106MQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C103": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C104": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A106MQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C105": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C106": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C107": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "mpn": "GCM32EC71H106KA03L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C108": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "mpn": "GCM32EC71H106KA03L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C109": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_1210_3225Metric",
+    "mpn": "GCM32EC71H106KA03L",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C110": {
+    "value": "5.8pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C111": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C112": {
+    "value": "180pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C113": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C114": {
+    "value": "5.8pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C115": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C116": {
+    "value": "3.3pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C117": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C118": {
+    "value": "22uF",
+    "footprint": "Capacitor_SMD:CP_Elec_5x5.8",
+    "mpn": "UCL1E220MCL1GS",
+    "manufacturer": "Nichicon",
+    "sheet": "/Power and input connector/"
+  },
+  "C119": {
+    "value": "22uF",
+    "footprint": "Capacitor_SMD:CP_Elec_5x5.8",
+    "mpn": "UCL1E220MCL1GS",
+    "manufacturer": "Nichicon",
+    "sheet": "/Power and input connector/"
+  },
+  "C120": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C121": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C122": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C123": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C124": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C125": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C126": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C127": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C128": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C129": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C130": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C131": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "C133": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C134": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C135": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C136": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "CL31B475KBHNNNE",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C138": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C139": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "C140": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A475KQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/Power and input connector/"
+  },
+  "C141": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "D4": {
+    "value": "ATV02W360B-HF",
+    "footprint": "Diode_SMD:D_SOD-123",
+    "mpn": "ATV02W360B-HF",
+    "manufacturer": "Comchip",
+    "sheet": "/Power and input connector/"
+  },
+  "D5": {
+    "value": "12V",
+    "footprint": "Diode_SMD:D_SOD-123",
+    "mpn": "BZT52C12-13-F",
+    "manufacturer": "Diodes Inc.",
+    "sheet": "/Power and input connector/"
+  },
+  "D16": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/Power and input connector/"
+  },
+  "D17": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/Power and input connector/"
+  },
+  "D18": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/Power and input connector/"
+  },
+  "D19": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/Power and input connector/"
+  },
+  "D21": {
+    "value": "SMF4L48CA",
+    "footprint": "Diode_SMD:D_SOD-123F",
+    "mpn": "SMF4L48CA",
+    "manufacturer": "Littelfuse",
+    "sheet": "/Power and input connector/"
+  },
+  "D22": {
+    "value": "SMF4L48CA",
+    "footprint": "Diode_SMD:D_SOD-123F",
+    "mpn": "SMF4L48CA",
+    "manufacturer": "Littelfuse",
+    "sheet": "/Power and input connector/"
+  },
+  "D23": {
+    "value": "DNP",
+    "footprint": "Diode_SMD:D_SOD-123F",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "D24": {
+    "value": "DNP",
+    "footprint": "Diode_SMD:D_SOD-123F",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "FB3": {
+    "value": "1k@100MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "mpn": "BLM18KG102SN1D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "FB4": {
+    "value": "1k@100MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "mpn": "BLM18KG102SN1D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "FB5": {
+    "value": "1k@100MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "mpn": "BLM18KG102SN1D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "FB6": {
+    "value": "1k@100MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "mpn": "BLM18KG102SN1D",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "J10": {
+    "value": "502443-0860",
+    "footprint": "jeffmakes-footprints:Molex_CLIK-Mate_502443-0870_1x08-2MP_P2.00mm_Vertical",
+    "mpn": "502443-0860",
+    "manufacturer": "Molex",
+    "sheet": "/Power and input connector/"
+  },
+  "L1": {
+    "value": "4.7uH",
+    "footprint": "Inductor_SMD:L_Coilcraft_XAL5030-XXX",
+    "mpn": "XAL5030-472MEC",
+    "manufacturer": "Coilcraft",
+    "sheet": "/Power and input connector/"
+  },
+  "L2": {
+    "value": "3.3uH",
+    "footprint": "Inductor_SMD:L_Coilcraft_XAL5030-XXX",
+    "mpn": "XAL5030-332MEC",
+    "manufacturer": "Coilcraft",
+    "sheet": "/Power and input connector/"
+  },
+  "L3": {
+    "value": "4.7uH",
+    "footprint": "Inductor_SMD:L_Coilcraft_XxL4030",
+    "mpn": "XAL4030-472MEC",
+    "manufacturer": "Coilcraft",
+    "sheet": "/Power and input connector/"
+  },
+  "L4": {
+    "value": "4.7uH",
+    "footprint": "Inductor_SMD:L_Coilcraft_XxL4030",
+    "mpn": "XAL4030-472MEC",
+    "manufacturer": "Coilcraft",
+    "sheet": "/Power and input connector/"
+  },
+  "L5": {
+    "value": "15uH",
+    "footprint": "Inductor_SMD:L_Wuerth_MAPI-4020",
+    "mpn": "74438356150",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "L6": {
+    "value": "1uH",
+    "footprint": "Inductor_SMD:L_1008_2520Metric",
+    "mpn": "LQM2HPN1R0MJHL",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "L7": {
+    "value": "1uH",
+    "footprint": "Inductor_SMD:L_1008_2520Metric",
+    "mpn": "LQM2HPN1R0MJHL",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "L8": {
+    "value": "1uH",
+    "footprint": "Inductor_SMD:L_1008_2520Metric",
+    "mpn": "LQM2HPN1R0MJHL",
+    "manufacturer": "Murata",
+    "sheet": "/Power and input connector/"
+  },
+  "Q1": {
+    "value": "Si7113ADN",
+    "footprint": "Package_SO:Vishay_PowerPAK_1212-8_Single",
+    "mpn": "SI7113ADN-T1-GE3",
+    "manufacturer": "Vishay",
+    "sheet": "/Power and input connector/"
+  },
+  "Q2": {
+    "value": "Si7113ADN",
+    "footprint": "Package_SO:Vishay_PowerPAK_1212-8_Single",
+    "mpn": "SI7113ADN-T1-GE3",
+    "manufacturer": "Vishay",
+    "sheet": "/Power and input connector/"
+  },
+  "Q3": {
+    "value": "Si7113ADN",
+    "footprint": "Package_SO:Vishay_PowerPAK_1212-8_Single",
+    "mpn": "SI7113ADN-T1-GE3",
+    "manufacturer": "Vishay",
+    "sheet": "/Power and input connector/"
+  },
+  "Q10": {
+    "value": "Si2323DS",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "SI2323DS-T1",
+    "manufacturer": "Vishay",
+    "sheet": "/Power and input connector/"
+  },
+  "Q26": {
+    "value": "2SD1782KT146R",
+    "footprint": "Package_TO_SOT_SMD:SC-59",
+    "mpn": "2SD1782KT146R",
+    "manufacturer": "ROHM",
+    "sheet": "/Power and input connector/"
+  },
+  "R6": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R7": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R8": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R9": {
+    "value": "1M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R10": {
+    "value": "1M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R11": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R12": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R13": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R14": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R15": {
+    "value": "22.6k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R16": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R17": {
+    "value": "37.4k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R18": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R35": {
+    "value": "0.1R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R36": {
+    "value": "0.1R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R78": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R83": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R87": {
+    "value": "100R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R88": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R89": {
+    "value": "510R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R90": {
+    "value": "1M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R91": {
+    "value": "976k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R92": {
+    "value": "85.6k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R93": {
+    "value": "105k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R94": {
+    "value": "1.3M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R95": {
+    "value": "34.8k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R96": {
+    "value": "180k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R97": {
+    "value": "45.3k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R98": {
+    "value": "510R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R99": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R101": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R102": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R103": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R104": {
+    "value": "100R",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "mpn": "RC0603FR-07100RL",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R105": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R107": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R108": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R109": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R110": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0603_1608Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R111": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0805_2012Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "R112": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0805_2012Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Power and input connector/"
+  },
+  "U2": {
+    "value": "ESD7004",
+    "footprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+    "mpn": "ESD7004MUTAG",
+    "manufacturer": "On Semi",
+    "sheet": "/Power and input connector/"
+  },
+  "U3": {
+    "value": "DZDH0401DW",
+    "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+    "mpn": "DZDH0401DW",
+    "manufacturer": "Diodes Inc.",
+    "sheet": "/Power and input connector/"
+  },
+  "U4": {
+    "value": "DZDH0401DW",
+    "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+    "mpn": "DZDH0401DW",
+    "manufacturer": "Diodes Inc.",
+    "sheet": "/Power and input connector/"
+  },
+  "U5": {
+    "value": "LM60440DRPK",
+    "footprint": "jeffmakes-footprints:WQFN-HR-13",
+    "mpn": "LM60440DRPK",
+    "manufacturer": "TI",
+    "sheet": "/Power and input connector/"
+  },
+  "U6": {
+    "value": "LM60440DRPK",
+    "footprint": "jeffmakes-footprints:WQFN-HR-13",
+    "mpn": "LM60440DRPK",
+    "manufacturer": "TI",
+    "sheet": "/Power and input connector/"
+  },
+  "U28": {
+    "value": "TPS65130RGE",
+    "footprint": "Package_DFN_QFN:VQFN-24-1EP_4x4mm_P0.5mm_EP2.45x2.45mm_ThermalVias",
+    "mpn": "TPS65130RGE",
+    "manufacturer": "TI",
+    "sheet": "/Power and input connector/"
+  },
+  "U29": {
+    "value": "NCP163ASN330T1G",
+    "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+    "mpn": "NCP163ASN330T1G",
+    "manufacturer": "On Semi",
+    "sheet": "/Power and input connector/"
+  },
+  "U30": {
+    "value": "NCP163ASN180T1G",
+    "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+    "mpn": "NCP163ASN180T1G",
+    "manufacturer": "On Semi",
+    "sheet": "/Power and input connector/"
+  },
+  "U31": {
+    "value": "MAX6105",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "MAX6105EUR+T",
+    "manufacturer": "Maxim",
+    "sheet": "/Power and input connector/"
+  },
+  "U32": {
+    "value": "LT8362xDD",
+    "footprint": "Package_DFN_QFN:DFN-10-1EP_3x3mm_P0.5mm_EP1.65x2.38mm",
+    "mpn": "LT8362",
+    "manufacturer": "Analog",
+    "sheet": "/Power and input connector/"
+  },
+  "U33": {
+    "value": "LM7121IM",
+    "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+    "mpn": "LM7121IM",
+    "manufacturer": "TI",
+    "sheet": "/Power and input connector/"
+  },
+  "U35": {
+    "value": "TPS22810DBV",
+    "footprint": "Package_TO_SOT_SMD:SOT-23-6",
+    "mpn": "TPS22810DBV",
+    "manufacturer": "TI",
+    "sheet": "/Power and input connector/"
+  },
+  "C19": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C20": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C21": {
+    "value": "15pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C22": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Modem/"
+  },
+  "C23": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/Modem/"
+  },
+  "C24": {
+    "value": "DNP 4.7uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C26": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/Modem/"
+  },
+  "C28": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C51": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "C61": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "D3": {
+    "value": "LO R976-PS-1",
+    "footprint": "jeffmakes-footprints:CHIPLED-0805",
+    "mpn": "LOR976-PS-1",
+    "manufacturer": "Osram",
+    "sheet": "/Modem/"
+  },
+  "D6": {
+    "value": "0402ESDA-MLP1",
+    "footprint": "Diode_SMD:D_0402_1005Metric",
+    "mpn": "0402ESDA-MLP1",
+    "manufacturer": "Eaton",
+    "sheet": "/Modem/"
+  },
+  "D9": {
+    "value": "0402ESDA-MLP1",
+    "footprint": "Diode_SMD:D_0402_1005Metric",
+    "mpn": "0402ESDA-MLP1",
+    "manufacturer": "Eaton",
+    "sheet": "/Modem/"
+  },
+  "D25": {
+    "value": "DNP",
+    "footprint": "Diode_SMD:D_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "J12": {
+    "value": "U_FL-R-SMT-1_10_",
+    "footprint": "jeffmakes-footprints:U.FL_Hirose_U.FL-R-SMT-1-copper-keepout",
+    "mpn": "128-0711-201",
+    "manufacturer": "Cinch Johnson",
+    "sheet": "/Modem/"
+  },
+  "J13": {
+    "value": "JAE_SIM_Card_SF72S006",
+    "footprint": "Connector_JAE:JAE_SIM_Card_SF72S006",
+    "mpn": "SF72S006VBDR2500",
+    "manufacturer": "JAE",
+    "sheet": "/Modem/"
+  },
+  "J17": {
+    "value": "DNP",
+    "footprint": "jeffmakes-footprints:U.FL_Hirose_U.FL-R-SMT-1-copper-keepout",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "Q5": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "Q6": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "Q7": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "Q8": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "Q9": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "Q11": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem/"
+  },
+  "R19": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R20": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R21": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R22": {
+    "value": "DNP 15k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R23": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R33": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R37": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R38": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R39": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R40": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R41": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R42": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R43": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R44": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R45": {
+    "value": "DNP",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "R46": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/Modem/"
+  },
+  "U7": {
+    "value": "Sierra_Wireless_RC7620",
+    "footprint": "jeffmakes-footprints:Cellular_Modem-Sierra-Wireless-module-CF3-ringCD",
+    "mpn": "RC7620",
+    "manufacturer": "Sierra Wireless",
+    "sheet": "/Modem/"
+  },
+  "U8": {
+    "value": "ESD7004",
+    "footprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+    "mpn": "ESD7004MUTAG",
+    "manufacturer": "On Semi",
+    "sheet": "/Modem/"
+  },
+  "C29": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:C_1206_3216Metric",
+    "mpn": "GRM31CE70J476ME15L",
+    "manufacturer": "Murata",
+    "sheet": "/SDcard/"
+  },
+  "C30": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/SDcard/"
+  },
+  "J14": {
+    "value": "Micro_SD_Card_Det_JAE_ST11",
+    "footprint": "jeffmakes-footprints:microSD_JAE_ST11S008V4H",
+    "mpn": "ST11S008V4HR2000",
+    "manufacturer": "JAE",
+    "sheet": "/SDcard/"
+  },
+  "R24": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/SDcard/"
+  },
+  "U10": {
+    "value": "ESD7004",
+    "footprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+    "mpn": "ESD7004MUTAG",
+    "manufacturer": "On Semi",
+    "sheet": "/SDcard/"
+  },
+  "U11": {
+    "value": "ESD7004",
+    "footprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+    "mpn": "ESD7004MUTAG",
+    "manufacturer": "On Semi",
+    "sheet": "/SDcard/"
+  },
+  "C31": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-UART bridge/"
+  },
+  "C32": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-UART bridge/"
+  },
+  "C33": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-UART bridge/"
+  },
+  "C39": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-UART bridge/"
+  },
+  "C40": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155C81C105KE15D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-UART bridge/"
+  },
+  "C132": {
+    "value": "1nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-UART bridge/"
+  },
+  "R25": {
+    "value": "22.6k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-UART bridge/"
+  },
+  "R26": {
+    "value": "22.6k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-UART bridge/"
+  },
+  "R27": {
+    "value": "22.6k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-UART bridge/"
+  },
+  "R28": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-UART bridge/"
+  },
+  "U12": {
+    "value": "CP2102N-Axx-xQFN24",
+    "footprint": "Package_DFN_QFN:QFN-24-1EP_4x4mm_P0.5mm_EP2.6x2.6mm",
+    "mpn": "CP2102N-A02-GQFN24R",
+    "manufacturer": "Si Labs",
+    "sheet": "/USB-UART bridge/"
+  },
+  "BT1": {
+    "value": "CR1220",
+    "footprint": "jeffmakes-footprints:Keystone-3000-CR1220-CR1216",
+    "mpn": "3000TR",
+    "manufacturer": "Keystone",
+    "sheet": "/RTC/"
+  },
+  "C34": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/RTC/"
+  },
+  "C35": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/RTC/"
+  },
+  "C36": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R61C105KA12D",
+    "manufacturer": "Murata",
+    "sheet": "/RTC/"
+  },
+  "C142": {
+    "value": "1uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A105KB8NNNC",
+    "manufacturer": "",
+    "sheet": "/RTC/"
+  },
+  "C143": {
+    "value": "2.2uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A225KP8NNNC",
+    "manufacturer": "",
+    "sheet": "/RTC/"
+  },
+  "D20": {
+    "value": "0402ESDA-MLP1",
+    "footprint": "Diode_SMD:D_0402_1005Metric",
+    "mpn": "0402ESDA-MLP1",
+    "manufacturer": "Eaton",
+    "sheet": "/RTC/"
+  },
+  "R29": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-07100KL",
+    "manufacturer": "Yageo",
+    "sheet": "/RTC/"
+  },
+  "R30": {
+    "value": "47k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0747KL",
+    "manufacturer": "Yageo",
+    "sheet": "/RTC/"
+  },
+  "U13": {
+    "value": "RV-3032-C7",
+    "footprint": "Package_SON:MicroCrystal_C7_SON-8_1.5x3.2mm_P0.9mm",
+    "mpn": "RV-3032-C7 32.768kHz 2.5ppm TA QC",
+    "manufacturer": "Micro Crystal",
+    "sheet": "/RTC/"
+  },
+  "U14": {
+    "value": "SN74LVC1G37DCKR",
+    "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+    "mpn": "SN74LVC1G37DCKR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/RTC/"
+  },
+  "U37": {
+    "value": "TPS7A0233PDBVR",
+    "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+    "mpn": "TPS7A0233PDBVR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/RTC/"
+  },
+  "C37": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "J15": {
+    "value": "10118194",
+    "footprint": "Connector_USB:USB_Micro-B_Amphenol_10118194_Horizontal",
+    "mpn": "10118194-0001LF",
+    "manufacturer": "Amphenol",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "Q4": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "R31": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "R32": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "U15": {
+    "value": "FSUSB42MX",
+    "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+    "mpn": "FSUSB42MUX",
+    "manufacturer": "On Semi",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "U16": {
+    "value": "ESD7004",
+    "footprint": "Package_SON:USON-10_2.5x1.0mm_P0.5mm",
+    "mpn": "ESD7004MUTAG",
+    "manufacturer": "On Semi",
+    "sheet": "/USB-OTG flashing interface/"
+  },
+  "C38": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "J16": {
+    "value": "FH12A-20S-0.5SH",
+    "footprint": "Connector_FFC-FPC:Hirose_FH12-20S-0.5SH_1x20-1MP_P0.50mm_Horizontal",
+    "mpn": "FH12A-20S-0.5SH(55)",
+    "manufacturer": "Hirose",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "Q27": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "Q28": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "R113": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "R114": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "U9": {
+    "value": "PCF8574PW",
+    "footprint": "Package_SO:SSOP-20_4.4x6.5mm_P0.65mm",
+    "mpn": "PCF8574PW",
+    "manufacturer": "TI",
+    "sheet": "/LED driver, LED board connections/"
+  },
+  "C25": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C27": {
+    "value": "22pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C46": {
+    "value": "22pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C47": {
+    "value": "220pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C48": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C49": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:CP_Elec_8x10.5",
+    "mpn": "EMVH630ADA470MHA0G",
+    "manufacturer": "United Chemi-Con",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C50": {
+    "value": "47uF",
+    "footprint": "Capacitor_SMD:CP_Elec_8x10.5",
+    "mpn": "EMVH630ADA470MHA0G",
+    "manufacturer": "United Chemi-Con",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C52": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C53": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C54": {
+    "value": "100pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C55": {
+    "value": "100pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C56": {
+    "value": "220pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C57": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C58": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:CP_Elec_5x5.4",
+    "mpn": "865250642008",
+    "manufacturer": "Wurth",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C59": {
+    "value": "4.7uF",
+    "footprint": "Capacitor_SMD:CP_Elec_5x5.4",
+    "mpn": "865250642008",
+    "manufacturer": "Wurth",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C60": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C62": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C63": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C64": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C65": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C66": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C67": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C68": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C69": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C70": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C71": {
+    "value": "22pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C72": {
+    "value": "DNP",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C73": {
+    "value": "3.3pF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C74": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C75": {
+    "value": "4.7nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM1555C1H472JE01D",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C76": {
+    "value": "4.7nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM1555C1H472JE01D",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C77": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A106MQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C78": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C79": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C81": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "GRM155R71H104KE14D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C82": {
+    "value": "1nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C83": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A106MQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C84": {
+    "value": "10uF",
+    "footprint": "Capacitor_SMD:C_0603_1608Metric",
+    "mpn": "CL10A106MQ8NNNC",
+    "manufacturer": "Samsung",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D8": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D10": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D11": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D12": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D13": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D14": {
+    "value": "PMEG6020ETR",
+    "footprint": "Diode_SMD:Nexperia_CFP3_SOD-123W",
+    "mpn": "PMEG6020ETR,115",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D15": {
+    "value": "12V",
+    "footprint": "Diode_SMD:D_SOD-123",
+    "mpn": "BZT52C12-13-F",
+    "manufacturer": "Diodes Inc.",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D26": {
+    "value": "1SS387",
+    "footprint": "Diode_SMD:D_SOD-523",
+    "mpn": "1SS387,L3F",
+    "manufacturer": "Toshiba",
+    "sheet": "/External Microphone Interface/"
+  },
+  "D27": {
+    "value": "1SS387",
+    "footprint": "Diode_SMD:D_SOD-523",
+    "mpn": "1SS387,L3F",
+    "manufacturer": "Toshiba",
+    "sheet": "/External Microphone Interface/"
+  },
+  "FB7": {
+    "value": "1k@100MHz",
+    "footprint": "Inductor_SMD:L_0603_1608Metric",
+    "mpn": "BLM18KG102SN1D",
+    "manufacturer": "Murata",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q12": {
+    "value": "BSS84PW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "BSS84PW",
+    "manufacturer": "Infineon",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q13": {
+    "value": "BSS84PW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "BSS84PW",
+    "manufacturer": "Infineon",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q14": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q15": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q16": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q17": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q18": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q19": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q20": {
+    "value": "BSS84PW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "BSS84PW",
+    "manufacturer": "Infineon",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q21": {
+    "value": "BSS84PW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "BSS84PW",
+    "manufacturer": "Infineon",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q22": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q23": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q24": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q25": {
+    "value": "Si2323DS",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "SI2323DS-T1",
+    "manufacturer": "Vishay",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q29": {
+    "value": "Si2323DS",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "SI2323DS-T1",
+    "manufacturer": "Vishay",
+    "sheet": "/External Microphone Interface/"
+  },
+  "Q30": {
+    "value": "NX3008NBKW",
+    "footprint": "Package_TO_SOT_SMD:SOT-323_SC-70",
+    "mpn": "NX3008NBKW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R47": {
+    "value": "10R",
+    "footprint": "Resistor_SMD:R_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R48": {
+    "value": "10R",
+    "footprint": "Resistor_SMD:R_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R49": {
+    "value": "1.3M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R50": {
+    "value": "1.3M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R51": {
+    "value": "1k2",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB122X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R52": {
+    "value": "1k2",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB122X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R53": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB102X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R54": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB102X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R55": {
+    "value": "8.2k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB822X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R56": {
+    "value": "8.2k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB822X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R57": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB102X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R58": {
+    "value": "8.2k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB822X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R59": {
+    "value": "8.2k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB822X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R60": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB102X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R61": {
+    "value": "200R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB201X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R62": {
+    "value": "200R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "ERA-2AEB201X",
+    "manufacturer": "Panasonic",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R63": {
+    "value": "0R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R64": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R65": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R66": {
+    "value": "6k81",
+    "footprint": "Resistor_SMD:R_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R67": {
+    "value": "6k81",
+    "footprint": "Resistor_SMD:R_1206_3216Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R68": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R69": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R70": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R71": {
+    "value": "33R",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R72": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R73": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R74": {
+    "value": "22M",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R79": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R80": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R81": {
+    "value": "1k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R82": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R84": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R85": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R86": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "R100": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "",
+    "manufacturer": "",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U17": {
+    "value": "74HC20",
+    "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+    "mpn": "74HC20PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U18": {
+    "value": "THAT5173",
+    "footprint": "Package_DFN_QFN:QFN-24-1EP_5x5mm_P0.65mm_EP3.4x3.4mm_ThermalVias",
+    "mpn": "5173N24-U",
+    "manufacturer": "THAT Corp",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U19": {
+    "value": "74HC74",
+    "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+    "mpn": "74HC74PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U20": {
+    "value": "74HC132",
+    "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+    "mpn": "74HC132PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U21": {
+    "value": "74HC4520",
+    "footprint": "Package_SO:TSSOP-16_4.4x5mm_P0.65mm",
+    "mpn": "74HC4520PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U22": {
+    "value": "74HC132",
+    "footprint": "Package_SO:TSSOP-14_4.4x5mm_P0.65mm",
+    "mpn": "74HC132PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U23": {
+    "value": "THAT1580",
+    "footprint": "Package_DFN_QFN:QFN-16-1EP_4x4mm_P0.65mm_EP2.1x2.1mm_ThermalVias",
+    "mpn": "1580N16-U",
+    "manufacturer": "THAT Corp",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U24": {
+    "value": "74HC688",
+    "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+    "mpn": "74HC688PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U25": {
+    "value": "LM4562",
+    "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+    "mpn": "LM4562MA",
+    "manufacturer": "TI",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U26": {
+    "value": "74HC688",
+    "footprint": "Package_SO:TSSOP-20_4.4x6.5mm_P0.65mm",
+    "mpn": "74HC688PW",
+    "manufacturer": "Nexperia",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U27": {
+    "value": "AD4005",
+    "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+    "mpn": "AD4005BRMZ",
+    "manufacturer": "Analog",
+    "sheet": "/External Microphone Interface/"
+  },
+  "U36": {
+    "value": "APX809S-40SA",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "APX809S-40SA",
+    "manufacturer": "Diodes Inc.",
+    "sheet": "/External Microphone Interface/"
+  },
+  "C144": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B104KO5NNNC",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "C145": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B103KB5NNNC",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "C146": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B103KB5NNNC",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "C147": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B103KB5NNNC",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "C148": {
+    "value": "10nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B103KB5NNNC",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R213": {
+    "value": "150k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD07150KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R214": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0710KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R215": {
+    "value": "20k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0720KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R216": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0710KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R217": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0710KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R218": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0710KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R219": {
+    "value": "20k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0720KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "R220": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RT0402BRD0710KL",
+    "manufacturer": "",
+    "sheet": "/Supply telemetry/"
+  },
+  "U38": {
+    "value": "ADS1115IDGSR",
+    "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+    "mpn": "ADS1115IDGSR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/Supply telemetry/"
+  },
+  "C149": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B104KO5NNNC",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "C150": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B104KO5NNNC",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "C151": {
+    "value": "100nF",
+    "footprint": "Capacitor_SMD:C_0402_1005Metric",
+    "mpn": "CL05B104KO5NNNC",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "Q31": {
+    "value": "BC847B,215",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "BC847B,215",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem supervision/"
+  },
+  "Q32": {
+    "value": "BC847B,215",
+    "footprint": "Package_TO_SOT_SMD:SOT-23",
+    "mpn": "BC847B,215",
+    "manufacturer": "Nexperia",
+    "sheet": "/Modem supervision/"
+  },
+  "R221": {
+    "value": "47k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0747KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R222": {
+    "value": "470k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-07470KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R223": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0710KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R224": {
+    "value": "47k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0747KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R225": {
+    "value": "470k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-07470KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R226": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0710KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R227": {
+    "value": "10k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-0710KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "R228": {
+    "value": "100k",
+    "footprint": "Resistor_SMD:R_0402_1005Metric",
+    "mpn": "RC0402FR-07100KL",
+    "manufacturer": "",
+    "sheet": "/Modem supervision/"
+  },
+  "U39": {
+    "value": "TCA9536DGKR",
+    "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+    "mpn": "TCA9536DGKR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/Modem supervision/"
+  },
+  "U40": {
+    "value": "SN74LVC1G74DCUR",
+    "footprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+    "mpn": "SN74LVC1G74DCUR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/Modem supervision/"
+  },
+  "U41": {
+    "value": "SN74LVC2G17DCKR",
+    "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+    "mpn": "SN74LVC2G17DCKR",
+    "manufacturer": "Texas Instruments",
+    "sheet": "/Modem supervision/"
+  }
+}

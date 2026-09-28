@@ -1,0 +1,21 @@
+{
+  "fixed_interfaces_unchanged": 37,
+  "interface_pad_mechanics_unchanged": true,
+  "outline_unchanged": true,
+  "copper_layers": 6,
+  "thickness_mm": 1.6,
+  "footprints": 493,
+  "schematic_pad_net_checks": 1826,
+  "added_button_and_nine_testpoints_removed": true,
+  "original_testpoints_preserved": 59,
+  "original_switches_preserved": 0,
+  "usb_original_copper_exact": {
+    "/USB_DP": true,
+    "/USB_DN": true
+  },
+  "mic_original_copper_exact": {
+    "/MIC_IN_P": true,
+    "/MIC_IN_N": true
+  },
+  "board_sha256": "197e3304add190f5de6a119007c67d00aedcd17ea45b32a330c22ef7548d9039"
+}
