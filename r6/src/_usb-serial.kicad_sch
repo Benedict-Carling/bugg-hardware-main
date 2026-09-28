@@ -2037,7 +2037,7 @@
 			(uuid "3c2d51fe-19cc-40d9-8b7b-868956f0c2db")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "R28")
 					(unit 1)
@@ -2205,7 +2205,7 @@
 			(uuid "9f3bb638-def6-43b6-9301-7906a7afbfa8")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C33")
 					(unit 1)
@@ -2270,7 +2270,7 @@
 			(uuid "a3dd7207-acff-4364-8a49-7097d51900e6")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0163")
 					(unit 1)
@@ -2420,7 +2420,7 @@
 			(uuid "4821062b-de94-4ed1-83c3-12cbe62c4ec4")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C132")
 					(unit 1)
@@ -2589,7 +2589,7 @@
 			(uuid "38974849-b40f-4819-a0d7-2fac22a9b7b1")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C39")
 					(unit 1)
@@ -2654,7 +2654,7 @@
 			(uuid "48d53db0-e1b8-40ed-960e-546a56d982ca")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0168")
 					(unit 1)
@@ -2823,7 +2823,7 @@
 			(uuid "9c5d0241-e7e0-4342-a593-74283b9ec37b")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C32")
 					(unit 1)
@@ -2888,7 +2888,7 @@
 			(uuid "6de0cb41-d623-4372-9518-f1dad0df001e")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0165")
 					(unit 1)
@@ -3038,7 +3038,7 @@
 			(uuid "21943919-bf76-407d-8493-f839bc9efc64")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "R26")
 					(unit 1)
@@ -3188,7 +3188,7 @@
 			(uuid "ae16dd5c-9578-4b24-a2f6-91324e8e34b4")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "R25")
 					(unit 1)
@@ -3253,7 +3253,7 @@
 			(uuid "89143f76-2733-4f71-9074-7ffa5d885838")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0169")
 					(unit 1)
@@ -3319,7 +3319,7 @@
 			(uuid "b93704da-4b9a-4c04-a97d-ff950476855b")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0170")
 					(unit 1)
@@ -3384,7 +3384,7 @@
 			(uuid "045c575b-0443-4c46-9d95-3e97872e24f7")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0166")
 					(unit 1)
@@ -3552,7 +3552,7 @@
 			(uuid "800bc53e-47d2-409d-bd84-89347be5343c")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C40")
 					(unit 1)
@@ -3699,7 +3699,7 @@
 			(uuid "b81d0da4-c989-4b79-a988-ed1b071e27b2")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "T53")
 					(unit 1)
@@ -3849,7 +3849,7 @@
 			(uuid "d82b0e58-f536-48a6-8821-4a9cfdc92447")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "R27")
 					(unit 1)
@@ -3914,7 +3914,7 @@
 			(uuid "da3c5578-00cd-4160-85df-887568e06b63")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0167")
 					(unit 1)
@@ -4140,7 +4140,7 @@
 			(uuid "1d37441c-7473-41c8-b21f-5b183dd899ac")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "U12")
 					(unit 1)
@@ -4308,7 +4308,7 @@
 			(uuid "7c5aa70e-9abd-4484-bf67-d5f095d5e4e5")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "C31")
 					(unit 1)
@@ -4373,7 +4373,7 @@
 			(uuid "78c801b4-7d6e-4583-b440-ad1838a98061")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "#PWR0164")
 					(unit 1)
@@ -4520,7 +4520,7 @@
 			(uuid "84a7bbea-2d26-44c8-81d0-a5e1ad80375a")
 		)
 		(instances
-			(project "bugg-main-r5"
+			(project "bugg-main-r6"
 				(path "/e3eb514f-6ce4-4abe-ba20-f82f0015628f/26331aa8-35b7-4c22-8a42-89230ada1085"
 					(reference "T54")
 					(unit 1)

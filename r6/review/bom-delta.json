@@ -1,0 +1,468 @@
+{
+  "R104": {
+    "status": "changed",
+    "old": {
+      "value": "0R",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "mpn": "",
+      "manufacturer": "",
+      "sheet": "/Power and input connector/"
+    },
+    "new": {
+      "value": "100R",
+      "footprint": "Resistor_SMD:R_0603_1608Metric",
+      "mpn": "RC0603FR-07100RL",
+      "manufacturer": "",
+      "sheet": "/Power and input connector/"
+    }
+  },
+  "C36": {
+    "status": "changed",
+    "old": {
+      "value": "100nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "GRM155R71H104KE14D",
+      "manufacturer": "Murata",
+      "sheet": "/RTC/"
+    },
+    "new": {
+      "value": "1uF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "GRM155R61C105KA12D",
+      "manufacturer": "Murata",
+      "sheet": "/RTC/"
+    }
+  },
+  "C142": {
+    "status": "added",
+    "new": {
+      "value": "1uF",
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "mpn": "CL10A105KB8NNNC",
+      "manufacturer": "",
+      "sheet": "/RTC/"
+    }
+  },
+  "C143": {
+    "status": "added",
+    "new": {
+      "value": "2.2uF",
+      "footprint": "Capacitor_SMD:C_0603_1608Metric",
+      "mpn": "CL10A225KP8NNNC",
+      "manufacturer": "",
+      "sheet": "/RTC/"
+    }
+  },
+  "R29": {
+    "status": "changed",
+    "old": {
+      "value": "510k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "",
+      "manufacturer": "",
+      "sheet": "/RTC/"
+    },
+    "new": {
+      "value": "100k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-07100KL",
+      "manufacturer": "Yageo",
+      "sheet": "/RTC/"
+    }
+  },
+  "R30": {
+    "status": "changed",
+    "old": {
+      "value": "510k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "",
+      "manufacturer": "",
+      "sheet": "/RTC/"
+    },
+    "new": {
+      "value": "47k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0747KL",
+      "manufacturer": "Yageo",
+      "sheet": "/RTC/"
+    }
+  },
+  "U13": {
+    "status": "changed",
+    "old": {
+      "value": "DS3231MZ",
+      "footprint": "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm",
+      "mpn": "DS3231MZ+",
+      "manufacturer": "Maxim",
+      "sheet": "/RTC/"
+    },
+    "new": {
+      "value": "RV-3032-C7",
+      "footprint": "Package_SON:MicroCrystal_C7_SON-8_1.5x3.2mm_P0.9mm",
+      "mpn": "RV-3032-C7 32.768kHz 2.5ppm TA QC",
+      "manufacturer": "Micro Crystal",
+      "sheet": "/RTC/"
+    }
+  },
+  "U14": {
+    "status": "changed",
+    "old": {
+      "value": "74LVC1G07DCK",
+      "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+      "mpn": "SN74LVC1G07DCKT",
+      "manufacturer": "TI",
+      "sheet": "/RTC/"
+    },
+    "new": {
+      "value": "SN74LVC1G37DCKR",
+      "footprint": "Package_TO_SOT_SMD:SOT-353_SC-70-5",
+      "mpn": "SN74LVC1G37DCKR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/RTC/"
+    }
+  },
+  "U37": {
+    "status": "added",
+    "new": {
+      "value": "TPS7A0233PDBVR",
+      "footprint": "Package_TO_SOT_SMD:SOT-23-5",
+      "mpn": "TPS7A0233PDBVR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/RTC/"
+    }
+  },
+  "C75": {
+    "status": "changed",
+    "old": {
+      "value": "180pF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "",
+      "manufacturer": "",
+      "sheet": "/External Microphone Interface/"
+    },
+    "new": {
+      "value": "4.7nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "GRM1555C1H472JE01D",
+      "manufacturer": "",
+      "sheet": "/External Microphone Interface/"
+    }
+  },
+  "C76": {
+    "status": "changed",
+    "old": {
+      "value": "180pF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "",
+      "manufacturer": "",
+      "sheet": "/External Microphone Interface/"
+    },
+    "new": {
+      "value": "4.7nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "GRM1555C1H472JE01D",
+      "manufacturer": "",
+      "sheet": "/External Microphone Interface/"
+    }
+  },
+  "C144": {
+    "status": "added",
+    "new": {
+      "value": "100nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B104KO5NNNC",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "C145": {
+    "status": "added",
+    "new": {
+      "value": "10nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B103KB5NNNC",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "C146": {
+    "status": "added",
+    "new": {
+      "value": "10nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B103KB5NNNC",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "C147": {
+    "status": "added",
+    "new": {
+      "value": "10nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B103KB5NNNC",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "C148": {
+    "status": "added",
+    "new": {
+      "value": "10nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B103KB5NNNC",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R213": {
+    "status": "added",
+    "new": {
+      "value": "150k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD07150KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R214": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0710KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R215": {
+    "status": "added",
+    "new": {
+      "value": "20k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0720KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R216": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0710KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R217": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0710KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R218": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0710KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R219": {
+    "status": "added",
+    "new": {
+      "value": "20k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0720KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "R220": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RT0402BRD0710KL",
+      "manufacturer": "",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "U38": {
+    "status": "added",
+    "new": {
+      "value": "ADS1115IDGSR",
+      "footprint": "Package_SO:MSOP-10_3x3mm_P0.5mm",
+      "mpn": "ADS1115IDGSR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/Supply telemetry/"
+    }
+  },
+  "C149": {
+    "status": "added",
+    "new": {
+      "value": "100nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B104KO5NNNC",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "C150": {
+    "status": "added",
+    "new": {
+      "value": "100nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B104KO5NNNC",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "C151": {
+    "status": "added",
+    "new": {
+      "value": "100nF",
+      "footprint": "Capacitor_SMD:C_0402_1005Metric",
+      "mpn": "CL05B104KO5NNNC",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "Q31": {
+    "status": "added",
+    "new": {
+      "value": "BC847B,215",
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "mpn": "BC847B,215",
+      "manufacturer": "Nexperia",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "Q32": {
+    "status": "added",
+    "new": {
+      "value": "BC847B,215",
+      "footprint": "Package_TO_SOT_SMD:SOT-23",
+      "mpn": "BC847B,215",
+      "manufacturer": "Nexperia",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R221": {
+    "status": "added",
+    "new": {
+      "value": "47k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0747KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R222": {
+    "status": "added",
+    "new": {
+      "value": "470k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-07470KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R223": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0710KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R224": {
+    "status": "added",
+    "new": {
+      "value": "47k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0747KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R225": {
+    "status": "added",
+    "new": {
+      "value": "470k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-07470KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R226": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0710KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R227": {
+    "status": "added",
+    "new": {
+      "value": "10k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-0710KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "R228": {
+    "status": "added",
+    "new": {
+      "value": "100k",
+      "footprint": "Resistor_SMD:R_0402_1005Metric",
+      "mpn": "RC0402FR-07100KL",
+      "manufacturer": "",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "U39": {
+    "status": "added",
+    "new": {
+      "value": "TCA9536DGKR",
+      "footprint": "Package_SO:VSSOP-8_3x3mm_P0.65mm",
+      "mpn": "TCA9536DGKR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "U40": {
+    "status": "added",
+    "new": {
+      "value": "SN74LVC1G74DCUR",
+      "footprint": "Package_SO:VSSOP-8_2.3x2mm_P0.5mm",
+      "mpn": "SN74LVC1G74DCUR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/Modem supervision/"
+    }
+  },
+  "U41": {
+    "status": "added",
+    "new": {
+      "value": "SN74LVC2G17DCKR",
+      "footprint": "Package_TO_SOT_SMD:SOT-363_SC-70-6",
+      "mpn": "SN74LVC2G17DCKR",
+      "manufacturer": "Texas Instruments",
+      "sheet": "/Modem supervision/"
+    }
+  }
+}

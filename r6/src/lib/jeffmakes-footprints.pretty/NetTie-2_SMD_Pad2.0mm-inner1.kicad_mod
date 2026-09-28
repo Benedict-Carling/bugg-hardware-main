@@ -1,0 +1,202 @@
+(footprint "NetTie-2_SMD_Pad2.0mm-inner1"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "Net tie, 2 pin, 2.0mm square SMD pads")
+	(tags "net tie")
+	(property "Reference" "REF**"
+		(at 0 -2 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "74f23feb-ad92-407c-9150-75f386b26086")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "NetTie-2_SMD_Pad2.0mm-inner1"
+		(at 0 2 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c08a0fed-73fc-4373-aec2-91d5151012ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "391d3295-1bc4-423a-938d-7ef43aea0834")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8fad261a-227a-4a91-b716-fa318f727678")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Quantity" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "0db446d2-bb06-4620-b95b-ee4ee41b1c1b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Digikey" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4fa25e8e-db7e-45b4-b228-d3d845e4ddfc")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MPN" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2edf5e57-47b0-479a-a002-eb1961e9c7c4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "58e540c8-41d8-4f6f-9875-c92e0e459be3")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Farnell" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a09638dd-6d3e-476a-b96f-9f324560767c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field-1" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "159bcfb4-3d89-456d-9326-ee0d91d55c9c")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field4" ""
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4174fd8e-c5c3-4e7a-817c-3609e0cbd46f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Field5" ""
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "4bfcc082-25d8-497a-b401-2d92ae24014f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "MANUFACTURER" ""
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "cdf6ec56-5ae2-4c5d-9666-c6b010febf4b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr exclude_from_bom)
+	(net_tie_pad_groups "1, 2")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_poly
+		(pts
+			(xy -2 -1) (xy 2 -1) (xy 2 1) (xy -2 1)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "In1.Cu")
+		(uuid "7246f63c-82b3-4590-8065-7d762193128d")
+	)
+	(pad "1" thru_hole circle
+		(at 0 0.5)
+		(size 0.6 0.6)
+		(drill 0.25)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "897bde46-dd76-43b3-9db5-5b5b0e3182a7")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -0.5)
+		(size 0.6 0.6)
+		(drill 0.25)
+		(layers "*.Cu")
+		(remove_unused_layers no)
+		(uuid "b34279ab-8a06-469b-b695-6f3c98980569")
+	)
+	(embedded_fonts no)
+)

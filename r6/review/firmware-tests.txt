@@ -1,0 +1,27 @@
+test_adc_saturation (test_r6_support.Tests) ... ok
+test_adc_timeout (test_r6_support.Tests) ... ok
+test_arm_required (test_r6_support.Tests) ... ok
+test_bus_fault_never_cuts_supply (test_r6_support.Tests) ... ok
+test_command_failure_never_cuts_supply (test_r6_support.Tests) ... ok
+test_complete_handshake (test_r6_support.Tests) ... ok
+test_expander_reset_rejected (test_r6_support.Tests) ... ok
+test_interface_isolation_failure_never_cuts_supply (test_r6_support.Tests) ... ok
+test_no_pulse_never_cuts_supply (test_r6_support.Tests) ... ok
+test_pulse_without_vgpio_off_never_cuts_supply (test_r6_support.Tests) ... ok
+test_short_pulse_latched_before_late_linux_poll (test_r6_support.Tests) ... ok
+test_stale_latch_rejected (test_r6_support.Tests) ... ok
+test_vgpio_bounce_restarts_settling (test_r6_support.Tests) ... ok
+test_voltage_scaling_and_mux (test_r6_support.Tests) ... ok
+test_alarm_rounds_up_and_enables_only_alarm (test_rtc.Tests) ... ok
+test_bad_time_refused (test_rtc.Tests) ... ok
+test_cr1220_never_enables_charger (test_rtc.Tests) ... ok
+test_factory_calibration_preserved (test_rtc.Tests) ... ok
+test_month_ambiguity_rejected (test_rtc.Tests) ... ok
+test_no_repeat_eeprom_wear (test_rtc.Tests) ... ok
+test_password_does_not_trigger_guessing (test_rtc.Tests) ... ok
+test_time_roundtrip (test_rtc.Tests) ... ok
+
+----------------------------------------------------------------------
+Ran 22 tests in 0.001s
+
+OK

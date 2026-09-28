@@ -1,0 +1,118 @@
+{
+  "evidence": "Calculated passive RC response and manufacturer RTC tolerance; not measured audio noise or whole-board current.",
+  "adc": {
+    "r5_C_pF": 180,
+    "r6_C_nF": 4.7,
+    "R_ohm": 200,
+    "r6_pole_Hz": 169313.76924669716,
+    "response": [
+      {
+        "frequency_hz": 8000,
+        "r5_loss_db": 1.4220940275126714e-05,
+        "r6_loss_db": 0.009684905644045876,
+        "extra_rejection_db": 0.009670684703770749
+      },
+      {
+        "frequency_hz": 20000,
+        "r5_loss_db": 8.888011275023056e-05,
+        "r6_loss_db": 0.06017932411490747,
+        "extra_rejection_db": 0.06009044400215724
+      },
+      {
+        "frequency_hz": 80000,
+        "r5_loss_db": 0.001421863574088244,
+        "r6_loss_db": 0.8751594539371319,
+        "extra_rejection_db": 0.8737375903630437
+      },
+      {
+        "frequency_hz": 1250000,
+        "r5_loss_db": 0.3340115375108097,
+        "r6_loss_db": 17.443312486887933,
+        "extra_rejection_db": 17.109300949377122
+      },
+      {
+        "frequency_hz": 1380000,
+        "r5_loss_db": 0.4037951015537791,
+        "r6_loss_db": 18.288623850806253,
+        "extra_rejection_db": 17.884828749252474
+      },
+      {
+        "frequency_hz": 1400000,
+        "r5_loss_db": 0.4150380976507785,
+        "r6_loss_db": 18.411775443110944,
+        "extra_rejection_db": 17.996737345460165
+      },
+      {
+        "frequency_hz": 1500000,
+        "r5_loss_db": 0.47321241223349403,
+        "r6_loss_db": 19.002963358320685,
+        "extra_rejection_db": 18.52975094608719
+      }
+    ],
+    "full_scale_step_16bit_halfLSB_settling_us": 11.076491945347927,
+    "limits": "Ideal RC only. Does not include ADC kickback, LM4562 dynamics, PCB parasitics or sample timing. 4.7 nF is the 44.1/48 kHz population; higher rates require separate validation/population."
+  },
+  "pip": {
+    "series_R_ohm": 100,
+    "C83_nominal_uF": 10,
+    "scenarios": [
+      {
+        "effective_capacitance_uF": 4.0,
+        "rejection_8khz_db": 26.077326644494935,
+        "tau_ms": 0.39999999999999997
+      },
+      {
+        "effective_capacitance_uF": 6.0,
+        "rejection_8khz_db": 29.593194148091946,
+        "tau_ms": 0.6000000000000001
+      },
+      {
+        "effective_capacitance_uF": 10.0,
+        "rejection_8khz_db": 34.02711564314665,
+        "tau_ms": 1.0
+      }
+    ],
+    "drop_at_0p5mA_mV": 50,
+    "drop_at_1mA_mV": 100,
+    "nominal_99percent_startup_ms": 4.605170185988092,
+    "limits": "Ripple-to-bias transfer only. Capacitance derating, load impedance and PCB coupling affect actual response. Filter is bypassed by the P3V3 supply branch."
+  },
+  "clock": {
+    "r5_tolerance_ppm": 5,
+    "r6_tolerance_ppm": 2.5,
+    "temperature_range_C": [
+      -40,
+      85
+    ],
+    "r5_seconds_per_day": 0.43200000000000005,
+    "r6_seconds_per_day": 0.21600000000000003,
+    "ratio": 2,
+    "limits": "Initial manufacturer timekeeping specifications over temperature; excludes aging, board stress and calendar/software errors. RTC oscillator is independent of the audio sample clock."
+  },
+  "telemetry": {
+    "new_channels": 4,
+    "channels": [
+      "external input",
+      "system +5V",
+      "modem +3V7",
+      "USB VBUS"
+    ],
+    "adc_bits": 16,
+    "adc_lsb_uV_at_selected_gain": 125,
+    "rail_lsb_mV": [
+      2,
+      0.375,
+      0.25,
+      0.375
+    ],
+    "limits": "These are code resolutions, not voltage accuracy. No shunt is fitted, so there is no current, watt-hour or battery state-of-charge measurement."
+  },
+  "modem": {
+    "signals_added": 2,
+    "safe_pulse_ms": 13.26,
+    "nominal_pulse_end_to_vgpio_off_ms": 7.8,
+    "latch": true,
+    "host_stable_off_guard_ms": 100,
+    "limits": "Hardware and software design benefit; field reliability and shutdown timing require hardware tests."
+  }
+}
